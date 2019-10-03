@@ -1,0 +1,9 @@
+Click==7.0
+Flask==1.0.2
+itsdangerous==1.1.0
+Jinja2==2.10
+kafka-python==1.4.4
+MarkupSafe==1.1.1
+numpy==1.16.1
+opencv-python==4.0.0.21
+Werkzeug==0.14.1
